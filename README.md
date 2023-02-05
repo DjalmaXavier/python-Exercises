@@ -1,2 +1,5 @@
 # exercicios-Python
- Repositório para exercicios e possiveis mini projetos em Python.
+Repository for exercises and possible mini projects in Python.
+
+I take the opportunity to recommend the python course given by the master @luizomf : 
+Great didactics, and cares about keeping the content up to date!
