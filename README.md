@@ -1,4 +1,4 @@
-# exercicios-Python
+# Exercicios e Projetos em Python / Python Exercises and projects
 
 [PT-BR]
 
