@@ -23,6 +23,7 @@ Aproveito para recomendar o curso de python ministrado pelo mestre [@luizomf](ht
 - Projetinhos = 
   - Pergunta e resposta
   - Gerador e verificador de CPF
+  - Adicionar e/ou remover itens da sacola (usando conceitos básicos)
 
 
 [EN-US]
@@ -54,3 +55,4 @@ Great didactics, and cares about keeping the content up to date!
   
   - Ask and Answer
   - CPF checker and generator
+  - Add and/or remove items from bag (using basic concepts)
