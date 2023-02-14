@@ -8,12 +8,23 @@ Aproveito para recomendar o curso de python ministrado pelo mestre [@luizomf](ht
 
 - Atividades Básicas = 
   
-	- Par ou Impar
+  - Par ou Impar
   - Bom dia/tarde/noite/madrugada!
   - Caractere repetido
   - Adivinhar Letra
   - Calculadora (usando While)
   - Controle Lista
+  - Capitalise! (exercício usado para resolver o problema no HackerRank)
+  - Ano bissexto (usando DEF)
+  
+- Exercicios HackerRank = 
+  - Capitalize! 
+  - Ano bissexto (usando DEF)
+
+- Projetinhos = 
+  - Pergunta e resposta
+  - Gerador e verificador de CPF
+
 
 [EN-US]
 
@@ -30,3 +41,17 @@ Great didactics, and cares about keeping the content up to date!
   - Guess Lyrics
   - Calculator (using While)
   - List Control
+
+- Medium Activitie =
+  
+  - Working with Closures
+
+- Exercices HackerRank = 
+  
+  - Capitalize!
+  - Leap year (using DEF)
+ 
+- Little projects = 
+  
+  - Ask and Answer
+  - CPF checker and generator
