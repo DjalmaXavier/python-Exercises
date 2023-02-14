@@ -14,10 +14,9 @@ Aproveito para recomendar o curso de python ministrado pelo mestre [@luizomf](ht
   - Adivinhar Letra
   - Calculadora (usando While)
   - Controle Lista
-  - Capitalise! (exercício usado para resolver o problema no HackerRank)
-  - Ano bissexto (usando DEF)
   
 - Exercicios HackerRank = 
+  
   - Capitalize! 
   - Ano bissexto (usando DEF)
 
